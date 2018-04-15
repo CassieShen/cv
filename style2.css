@@ -1,0 +1,29 @@
+body{
+  font-family: "Avenir Next", Arial, sans-serif;
+  max-width: 800px;
+  margin: auto;
+}
+
+img{
+  max-width: 800px;
+}
+
+section{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 30px;
+  background-color: #efe8d8;
+}
+
+
+
+a{
+  color: #bc8008;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #b7e3e4;
+}
